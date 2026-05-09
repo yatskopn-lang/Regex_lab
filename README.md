@@ -33,12 +33,12 @@
 
 Для Windows:
 ```bash
-python regex_fsm.py
+python regex_lab.py
 ```
 
 Для macOS / Linux:
 ```bash
-python3 regex_fsm.py
+python3 regex_lab.py
 ```
 
 ## Приклади запусків
