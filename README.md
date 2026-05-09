@@ -30,11 +30,16 @@
    ```bash
    git clone [https://github.com/yatskopn-lang/Regex_lab.git](https://github.com/yatskopn-lang/Regex_lab.git)
 2. Запустіть основний скрипт за допомогою інтерпретатора Python:
+
 Для Windows:
+```bash
 python regex_fsm.py
+```
 
 Для macOS / Linux:
+```bash
 python3 regex_fsm.py
+```
 
 ## Приклади запусків
 Ось результати перевірки рядків для регулярного виразу `a*4.+hi`:
